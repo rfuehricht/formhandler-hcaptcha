@@ -2,7 +2,7 @@
   "name": "rfuehricht/formhandler-hcaptcha",
   "type": "typo3-cms-extension",
   "description": "Add error check hcaptcha to Formhandler.",
-  "version": "13.0.0",
+  "version": "13.0.1",
   "license": [
     "GPL-3.0-or-later"
   ],
